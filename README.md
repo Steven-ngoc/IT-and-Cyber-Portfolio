@@ -1,2 +1,2 @@
-# cyber-home-lab
+# cyber-home-labs
 First home lab
