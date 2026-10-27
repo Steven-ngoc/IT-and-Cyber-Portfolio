@@ -1,4 +1,4 @@
-# Welcome to My IT Portfolio
+# Welcome to My Homelab Projects Portfolio
 
 Hi, I'm Steven Mok. I am an IT student at the University of Central Florida, focusing on Identity and Access Management (IAM) and Cybersecurity.
 
